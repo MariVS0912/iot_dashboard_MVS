@@ -7,9 +7,9 @@ import plotly.express as px
 # CONFIG
 # ---------------------------
 url = "https://us-east-1-1.aws.cloud2.influxdata.com"
-token = "N6yei0BYDL6yF2lcSaCKsSuSM-CvlTY74Svxe5-ijQPFIs0q53cP5tcBLFR2Hx6Ft9eQ4GO6aeMGT0XZA0AdzA=="
-org = "MarianaVargasS"
-bucket = "appIOT"
+token = "qmIm-E2T0rvijqU6fMVixi1KspQSLRunXBgqfslRFJh2bYHWNI05eT0enTVAG32RBCp_5Y5a4UaqgetuTjjvHg=="
+org = "miguelcmo"
+bucket = "iot_telemetry_data"
 
 # ---------------------------
 # STREAMLIT UI
